@@ -2,7 +2,7 @@
 title: Azure N-series AMD GPU Driver Setup for Linux
 description: How to set up AMD Radeon PRO V710 NVv5 Linux Installation Guide.
 services: virtual-machines
-author: nmagatala-MSFT
+author: sravanigannavarapu
 ms.service: azure-virtual-machines
 ms.subservice: sizes
 ms.collection: linux
