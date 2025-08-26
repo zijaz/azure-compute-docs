@@ -33,7 +33,7 @@ This article outlines the supported operating systems, drivers, and provides ins
 Here are the steps for installing the AMD Linux Driver to harness the capabilities of the AMD Radeon PRO V710 GPU on an NVv5-V710 GPU Linux instance provided by Microsoft Azure. Subsequent sections provide detailed Linux driver installation instructions for users who wish to perform inference using ROCm on the NVv5-V710 GPU Linux instance.
 
 ## Step1: Linux Driver Installation
-- **Supported Linux Distros**
+**Supported Linux Distros**
 
 Confirm the system has a supported Linux version. 
 
